@@ -13,7 +13,7 @@ getgenv().Config = {
     } ,
     ["Melee"] = {
         ["All Melee V1"] = true,
-        ["Super Huamn"] = true,
+        ["Super Human"] = true,
         ["Dragon Talon"] = true,
         ["Sharkman Karate"] = true,
         ["Elechic Claw"] = true,
